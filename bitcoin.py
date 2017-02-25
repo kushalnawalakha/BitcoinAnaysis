@@ -1,6 +1,5 @@
 from cmath import exp
 from numpy.core.fromnumeric import mean
-
 import statsmodels.formula.api as smf
 import sklearn.metrics as sm
 import pandas as pd
